@@ -1,0 +1,1 @@
+Ao final do processamento, o valor da variável SOMA será 91. Isso indica que a soma de todos os números de 1 até 13, inclusive, é 91.
